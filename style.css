@@ -68,7 +68,6 @@ nav {
     color: #0066cc;
 }
 
-/* SECTION HERO */
 .hero {
     padding: 100px 0;
     text-align: center;
@@ -103,7 +102,6 @@ nav {
     color: white;
 }
 
-/* SECTION A PROPOS */
 .about {
     padding: 80px 0;
     background-color: #f9f9f9;
@@ -149,7 +147,6 @@ nav {
     color: #555;
 }
 
-/* SECTION COMPETENCES */
 .skills {
     padding: 80px 0;
     background-color: white;
